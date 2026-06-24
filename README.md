@@ -2,7 +2,6 @@
 A fast, cross‑platform file search utility with a modern Tkinter GUI.  
 Built to quickly locate files, preview contents, and reveal them in the system file explorer.
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Python](https://img.shields.io/badge/Python-3.11+-yellow)
 
